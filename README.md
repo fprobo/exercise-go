@@ -1,1 +1,1 @@
-# excercise-go
+# exercise-go
